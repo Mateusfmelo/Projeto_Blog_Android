@@ -224,33 +224,7 @@ footer a:hover {
     }
 
     main h1 {
-        font-size: 1.5em;
-    }
-
-    main h2 {
-        font-size: 1em;
-    }
-
-    main p {
-        font-size: 0.9em;
-        line-height: 1.8em;
-    }
-
-    main img.pequena {
-        max-width: 100%;
-    }
-
-    div.video > iframe {
-        top: 10%;
-        left: 10%;
-        width: 80%;
-        height: 80%;
-    }
-
-    aside > h3 {
-        padding: 5px;
-        margin: -10px -10px 0px -10px;
-        border-radius: 10px 10px 0px 0px;
+        font-size: 19px;
     }
 }
   
