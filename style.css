@@ -218,6 +218,10 @@ footer a:hover {
         max-width: 300px;
     }
 
+    nav {
+        font-size: 13px;
+    }
+
     main h1 {
         font-size: 1.5em;
     }
